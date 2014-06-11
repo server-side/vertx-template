@@ -13,6 +13,13 @@
       <url>http://www.eclipse.org/legal/epl-v10.html</url>
     </license>
   </licenses>
+  <scm>
+    <connection>scm:git:git://github.com/server-side/vertx-template.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/server-side/vertx-template.git</developerConnection>
+    <tag>af5566681cc47bc3dc4c043a42c28daf263c37ca
+</tag>
+    <url>https://github.com/server-side/vertx-template</url>
+  </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <testSourceDirectory>test</testSourceDirectory>
