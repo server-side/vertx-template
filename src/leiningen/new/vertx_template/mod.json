@@ -1,0 +1,19 @@
+{
+
+  // main verticle
+  "main":"main.clj",
+
+  // If your module is going to be registered in the Vert.x module registry you will also need the following
+  // mandatory fields
+  "description":"Put description of your module here",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "You",
+
+  // Optional fields
+  "developers": ["developer-names"],
+  "keywords": ["vert.x", "server"],
+  "homepage": "http://your.domain.name.com/",
+
+  // for debug
+  "auto-redeploy": true
+}
